@@ -1,16 +1,63 @@
-# React + Vite
+# Zito Connect Affiliate 🤝
+A modern, animated landing page for a Nigerian affiliate marketer — built with React and Framer Motion.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 **Live Site:** [https://affiliate-landing-page-79f6.onrender.com/](https://affiliate-landing-page-79f6.onrender.com/)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Preview
 
-## React Compiler
+> A sleek, dark-themed single-page promo site featuring smooth scroll animations, a WhatsApp/Phone/Email contact section, and a 6-month trial offer — no backend required.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Hero Section** — Full-screen animated headline with parallax scroll and floating particles  
+- **About Section** — Interactive 3D flip card revealing the partnership offer  
+- **How It Works** — 5-step process cards with staggered entrance animations  
+- **Why Work With Me** — Animated benefit cards with a testimonial block  
+- **6-Month Trial** — Animated progress bar showcasing the risk-free offer  
+- **Contact Section** — Direct WhatsApp, Phone, and Email links — zero backend needed  
+- **Marquee Ticker** — Scrolling brand strip between sections  
+- **Sticky Nav** — Blur-backdrop navbar with mobile hamburger menu  
+- **Fully Responsive** — Mobile-first with `clamp()` fluid typography and CSS Grid  
+
+---
+
+## 🛠 Tech Stack
+
+Built with **React** · **Framer Motion** · **TailwindCSS**
+
+---
+
+## 📞 Updating Contact Links
+
+Replace these placeholders before going live:
+
+| Field | In code | Replace with |
+|---|---|---|
+| WhatsApp | `wa.me/234XXXXXXXXX` | Real WhatsApp number |
+| Phone | `tel:+234XXXXXXXXX` | Real phone number |
+| Display | `+234-XXX-XXXXXX` | Real display number |
+| Email | `john@affiliatemarketer.com` | Real email |
+
+---
+
+## 🎨 Design Tokens
+
+| Token | Value | Usage |
+|---|---|---|
+| `--gold` | `#C9A84C` | Primary accent |
+| `--gold2` | `#E8C96A` | Gradient midpoint |
+| `--bg` | `#080810` | Page background |
+| `--text` | `#F0F0FA` | Body text |
+| `--sub` | `#9090B8` | Muted text |
+
+Fonts: **Playfair Display** (headings) · **Outfit** (body) via Google Fonts
+
+---
+
+## 📄 License
+
+© 2026 Okeke Kizito · Lagos, Nigeria · All rights reserved.
