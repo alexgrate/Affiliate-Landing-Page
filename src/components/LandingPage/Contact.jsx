@@ -22,7 +22,7 @@ const WaIcon = () => (
 const contactMethods = [
     { icon: <WaIcon />, label: "WhatsApp", value: "+234-702-546-6321", sub: "Chat with me directly — fastest response", href: "https://wa.me/2347025466321", accent: "#25D366", shadow: "rgba(37,211,102,0.35)", cta: "Open WhatsApp" },
     { icon: <Phone />, label: "Phone Call", value: "+234-702-546-6321", sub: "Call me anytime between 8am – 8pm", href: "tel:+2347025466321", accent: "var(--gold)", shadow: "rgba(201,168,76,0.4)", cta: "Call Now" },
-    { icon: <Mail />, label: "Email", value: "okekechibueze@gmail.com", sub: "For detailed or formal inquiries", href: "mailto:okekechibueze@gmail.com", accent: "#4F8EF7", shadow: "rgba(79,142,247,0.35)", cta: "Send Email" },
+    { icon: <Mail />, label: "Email", value: "Kizval07@gmail.com", sub: "For detailed or formal inquiries", href: "mailto:Kizval07@gmail.com", accent: "#4F8EF7", shadow: "rgba(79,142,247,0.35)", cta: "Send Email" },
 ];
 
 

@@ -31,19 +31,3 @@ const App = () => {
 };
 
 export default App;
-
-{
-  /* <Noise />
-      <Particles />
-      <Nav />
-      <main style={{ position: "relative", zIndex: 1 }}>
-        <Hero />
-        <Marquee />
-        <About />
-        <HowItWorks />
-        <WhyMe />
-        <Trial />
-        <Contact />
-      </main>
-      <Footer /> */
-}

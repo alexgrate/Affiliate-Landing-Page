@@ -92,7 +92,6 @@ const Navbar = () => {
             >
                 <span
                 style={{
-                    fontFamily: "Playfair Display, serif",
                     fontWeight: 900,
                     fontSize: 15,
                     color: "var(--bg)",
@@ -103,7 +102,6 @@ const Navbar = () => {
             </div>
             <span
                 style={{
-                fontFamily: "Playfair Display, serif",
                 fontWeight: 700,
                 fontSize: 17,
                 color: "var(--text)",
@@ -231,7 +229,6 @@ const Navbar = () => {
                         background: "none",
                         border: "none",
                         color: "var(--text)",
-                        fontFamily: "Playfair Display, serif",
                         fontSize: 26,
                         fontWeight: 700,
                         cursor: "pointer",

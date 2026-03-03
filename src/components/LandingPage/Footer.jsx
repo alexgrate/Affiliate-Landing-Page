@@ -34,7 +34,6 @@ const Footer = () => {
             >
                 <span
                 style={{
-                    fontFamily: "Playfair Display, serif",
                     fontWeight: 900,
                     fontSize: 13,
                     color: "var(--bg)",
@@ -45,7 +44,6 @@ const Footer = () => {
             </div>
             <span
                 style={{
-                fontFamily: "Playfair Display, serif",
                 fontWeight: 700,
                 fontSize: 16,
                 color: "var(--text)",
@@ -60,7 +58,7 @@ const Footer = () => {
             <div style={{ display: "flex", gap: 20 }}>
             {[
                 ["WhatsApp", "https://wa.me/2347025466321"],
-                ["Email", "mailto:okekechibueze@gmail.com"],
+                ["Email", "mailto:Kizval07@gmail.com"],
             ].map(([s, h]) => (
                 <motion.a
                 key={s}

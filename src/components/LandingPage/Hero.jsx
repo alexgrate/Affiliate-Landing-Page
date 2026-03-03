@@ -275,7 +275,6 @@ const Hero = () => {
                     style={{
                     fontSize: "clamp(1.8rem,4vw,2.8rem)",
                     fontWeight: 900,
-                    fontFamily: "Playfair Display, serif",
                     letterSpacing: "-0.02em",
                     }}
                 >
